@@ -1,0 +1,13 @@
+org\gateway\filter\food\CustomFoodControllerFilter.class
+org\gateway\filter\record\MealControllerFilter.class
+org\gateway\filter\MainFilter.class
+org\gateway\config\JwtConfig.class
+org\gateway\filter\food\NutritionixApiControllerFilter.class
+org\gateway\filter\record\FoodControllerFilter.class
+org\gateway\config\GatewayConfig.class
+org\gateway\GateWayApplication.class
+org\gateway\filter\user\AuthenticationControllerFilter.class
+org\gateway\filter\user\UserControllerFilter.class
+org\gateway\filter\record\RecordControllerFilter.class
+org\gateway\utils\HttpResponseUtil.class
+org\gateway\utils\JwtUtil.class
