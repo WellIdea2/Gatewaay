@@ -1,11 +1,11 @@
-package org.gateway.filter.nutri_guide;
+package com.floxie.gateway.filter.nutri_guide;
 
 import java.util.List;
 import org.commons.feature.nutri_guide.paths.NutritionixApiControllerPaths;
 import org.commons.feature.shared.dto.EndpointPermission;
 import org.commons.feature.shared.enums.HttpMethod;
 import org.commons.feature.shared.enums.UserAccess;
-import org.gateway.filter.MainFilter;
+import com.floxie.gateway.filter.MainFilter;
 import org.springframework.stereotype.Component;
 
 @Component

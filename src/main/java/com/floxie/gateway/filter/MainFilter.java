@@ -1,4 +1,4 @@
-package org.gateway.filter;
+package com.floxie.gateway.filter;
 
 import java.util.List;
 import java.util.Optional;
@@ -8,8 +8,8 @@ import org.commons.feature.shared.enums.HttpMethod;
 import org.commons.feature.shared.enums.UserAccess;
 import org.commons.feature.user.dto.UserView;
 import org.commons.feature.shared.util.GsonWrapper;
-import org.gateway.utils.HttpResponseUtil;
-import org.gateway.utils.JwtUtil;
+import com.floxie.gateway.utils.HttpResponseUtil;
+import com.floxie.gateway.utils.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.gateway.filter.GatewayFilterChain;
 import org.springframework.cloud.gateway.filter.GlobalFilter;

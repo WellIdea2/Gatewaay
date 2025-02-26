@@ -1,4 +1,4 @@
-package org.gateway.utils;
+package com.floxie.gateway.utils;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.ExpiredJwtException;
@@ -16,7 +16,7 @@ import org.commons.feature.user.dto.UserView;
 import org.commons.feature.user.enums.Gender;
 import org.commons.feature.user.enums.UserRole;
 import org.commons.feature.user.enums.WorkoutState;
-import org.gateway.config.JwtConfig;
+import com.floxie.gateway.config.JwtConfig;
 import org.springframework.http.HttpHeaders;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package org.gateway;
+package com.floxie.gateway;
 
 
 import org.springframework.boot.SpringApplication;

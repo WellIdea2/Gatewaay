@@ -1,4 +1,4 @@
-package org.gateway.utils;
+package com.floxie.gateway.utils;
 
 import org.commons.feature.shared.util.GsonWrapper;
 import org.springframework.http.HttpStatus;

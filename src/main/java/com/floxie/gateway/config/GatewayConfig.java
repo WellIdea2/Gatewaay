@@ -1,4 +1,4 @@
-package org.gateway.config;
+package com.floxie.gateway.config;
 
 import java.util.List;
 import lombok.RequiredArgsConstructor;

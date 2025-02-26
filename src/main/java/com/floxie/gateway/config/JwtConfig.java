@@ -1,4 +1,4 @@
-package org.gateway.config;
+package com.floxie.gateway.config;
 
 import io.jsonwebtoken.security.Keys;
 import jakarta.annotation.PostConstruct;
