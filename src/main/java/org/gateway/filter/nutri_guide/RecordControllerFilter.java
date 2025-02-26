@@ -1,7 +1,7 @@
-package org.gateway.filter.record;
+package org.gateway.filter.nutri_guide;
 
 import java.util.List;
-import org.commons.feature.record.paths.RecordControllerPaths;
+import org.commons.feature.nutri_guide.paths.RecordControllerPaths;
 import org.commons.feature.shared.dto.EndpointPermission;
 import org.commons.feature.shared.enums.HttpMethod;
 import org.commons.feature.shared.enums.UserAccess;
